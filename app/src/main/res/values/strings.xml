@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CallingBuiltinApps</string>
+    <string name="TIT">Call the built in apps of Device by Button Click</string>
+    <string name="CREATOR">App by Dr. P. Sivaram</string>
+    <string name="GMaps">Google Maps</string>
+    <string name="GPlay">Google Play</string>
+    <string name="SendEmail">Send Email</string>
+    <string name="SendTextContent">Send Text Content</string>
+    <string name="ViewImage">View Images</string>
+</resources>
